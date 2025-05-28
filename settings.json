@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "SlobosVideos.aternos.me", 
-    "port": 13855,   
+    "ip": "KarmaBlocks.aternos.me", 
+    "port": 12559,   
     "version": "1.12.1"   
   },
   
